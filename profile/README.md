@@ -1,1 +1,2 @@
+QiMeng aims to achieve fully automated design of the chip hardware/software stack by leveraging large language models (LLMs), agents, and Boolean logic generation technologies. QiMeng has successfully automated designing RISC-V CPUs, optimizing operating system configurations, transcompiling tensor programs, and developing high-performance libraries, with performance comparable to that of human expertise.
 [https://qimeng-ict.github.io/](https://qimeng-ict.github.io/)
