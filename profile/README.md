@@ -8,18 +8,6 @@ This organization hosts official implementations and resources for QiMeng-relate
 
 ## 🔹 1. Automated Chip Design
 
-### 🧠 QiMeng-CPU-v2  
-**QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**  
-*Shuyao Cheng, Rui Zhang, Wenkai He, Pengwei Jin, Chongxiao Li, Zidong Du, Xing Hu, Yifan Hao, Guanglin Xu, Yuanbo Wen, Ling Li, Qi Guo, Yunji Chen*  
-**IJCAI 2025**
-
-QiMeng-CPU-v2 is the world’s first AI-designed superscalar CPU, achieving **~380× performance improvement** over prior automated design approaches and reaching competitiveness with human-designed processors such as **ARM Cortex-A53**.
-
-- 📁 Repository: `QiMeng-CPU-v2`
-- 📄 Paper: IJCAI 2025
-
----
-
 ### 🧠 QiMeng-CPU-v1  
 **QiMeng-CPU-v1: Automated CPU Design by Learning from Input-Output Examples**  
 *Shuyao Cheng et al.*  
@@ -27,10 +15,20 @@ QiMeng-CPU-v2 is the world’s first AI-designed superscalar CPU, achieving **~3
 
 The first industrial-scale AI-designed RISC-V CPU tape-out. Designed within **5 hours**, over **1700× larger** than prior automated circuits. Successfully booted Linux and achieved performance comparable to **Intel 80486SX**.
 
-- 📁 Repository: [QiMeng-CPU-v2](https://github.com/Qimeng-IPRC/QiMeng-CPU-v2)
-- 📄 Paper (IJCAI 2025): https://www.ijcai.org/proceedings/2025/xxx
-- 📝 arXiv: https://arxiv.org/abs/2501.01234
+- 📁 Repository: [QiMeng-CPU-v1](https://github.com/Qimeng-IPRC/QiMeng-CPU-v1)
+- 📄 Paper (IJCAI 2024): [https://www.ijcai.org/proceedings/2024/425](https://www.ijcai.org/proceedings/2024/425)
+- 📝 arXiv: [https://arxiv.org/abs/2501.01234](https://arxiv.org/abs/2306.12456)
+  
+### 🧠 QiMeng-CPU-v2  
+**QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**  
+*Shuyao Cheng, Rui Zhang, Wenkai He, Pengwei Jin, Chongxiao Li, Zidong Du, Xing Hu, Yifan Hao, Guanglin Xu, Yuanbo Wen, Ling Li, Qi Guo, Yunji Chen*  
+**IJCAI 2025**
 
+QiMeng-CPU-v2 is the world’s first AI-designed superscalar CPU, achieving **~380× performance improvement** over prior automated design approaches and reaching competitiveness with human-designed processors such as **ARM Cortex-A53**.
+
+- 📁 Repository: [QiMeng-CPU-v2](https://github.com/Qimeng-IPRC/QiMeng-CPU-v2)
+- 📄 Paper (IJCAI 2025): [https://dl.acm.org/doi/10.24963/ijcai.2025/549](https://dl.acm.org/doi/10.24963/ijcai.2025/549)
+- 📝 arXiv: [https://arxiv.org/abs/2501.01234](https://arxiv.org/abs/2501.01234)
 ---
 
 ## 🔹 2. Automatic HDL Generation
