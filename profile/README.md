@@ -10,7 +10,8 @@ This organization hosts official implementations and resources for QiMeng-relate
 
 ### 🧠 QiMeng-CPU-v1  
 **QiMeng-CPU-v1: Automated CPU Design by Learning from Input-Output Examples**  
-*Shuyao Cheng et al.*  
+*Shuyao Cheng, Pengwei Jin, Qi Guo, Zidong Du, Rui Zhang, Xing Hu, Yongwei Zhao, Yifan Hao, Xiangtao Guan, Husheng Han, Zhengyue Zhao, Ximing Liu, Xishan Zhang, Yuejie Chu, Weilong Mao, Tianshi Chen, Yunji Chen*  
+
 **IJCAI 2024**
 
 The first industrial-scale AI-designed RISC-V CPU tape-out. Designed within **5 hours**, over **1700× larger** than prior automated circuits. Successfully booted Linux and achieved performance comparable to **Intel 80486SX**.
@@ -22,6 +23,7 @@ The first industrial-scale AI-designed RISC-V CPU tape-out. Designed within **5 
 ### 🧠 QiMeng-CPU-v2  
 **QiMeng-CPU-v2: Automated Superscalar Processor Design by Learning Data Dependencies**  
 *Shuyao Cheng, Rui Zhang, Wenkai He, Pengwei Jin, Chongxiao Li, Zidong Du, Xing Hu, Yifan Hao, Guanglin Xu, Yuanbo Wen, Ling Li, Qi Guo, Yunji Chen*  
+
 **IJCAI 2025**
 
 QiMeng-CPU-v2 is the world’s first AI-designed superscalar CPU, achieving **~380× performance improvement** over prior automated design approaches and reaching competitiveness with human-designed processors such as **ARM Cortex-A53**.
@@ -36,6 +38,7 @@ QiMeng-CPU-v2 is the world’s first AI-designed superscalar CPU, achieving **~3
 ### ⚙️ QiMeng-SALV  
 **QiMeng-SALV:Signal-Aware Learning for Verilog Code Generation**  
 *Yang Zhang, Rui Zhang, Jiaming Guo, Lei Huang, Di Huang, Yunpu Zhao, Shuyao Cheng, Pengwei Jin, Chongxiao Li, Zidong Du, Xing Hu, Qi Guo, Yunji Chen*
+
 **NeurIPS 2025**
 
 QiMeng-SALV introduces a novel framework for Verilog code generation that shifts reinforcement learning optimization from module-level to signal-level rewards. By leveraging AST analysis and signal-aware verification, it extracts functionally correct code segments from partially incorrect modules, enabling more effective RL training.
