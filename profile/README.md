@@ -34,14 +34,14 @@ QiMeng-CPU-v2 is the world’s first AI-designed superscalar CPU, achieving **~3
 ## 🔹 2. Automatic HDL Generation
 
 ### ⚙️ QiMeng-SALV  
-**Signal-Aware Learning for Verilog Code Generation**  
+**QiMeng-SALV:Signal-Aware Learning for Verilog Code Generation**  
+*Yang Zhang, Rui Zhang, Jiaming Guo, Lei Huang, Di Huang, Yunpu Zhao, Shuyao Cheng, Pengwei Jin, Chongxiao Li, Zidong Du, Xing Hu, Qi Guo, Yunji Chen*
 **NeurIPS 2025**
 
-Introduces **signal-level reinforcement learning optimization** for Verilog generation via AST-aware verification, enabling extraction of functionally correct submodules from partially incorrect code.
+QiMeng-SALV introduces a novel framework for Verilog code generation that shifts reinforcement learning optimization from module-level to signal-level rewards. By leveraging AST analysis and signal-aware verification, it extracts functionally correct code segments from partially incorrect modules, enabling more effective RL training.
 
-- 📁 Repository: `QiMeng-SALV`
-- 📄 Paper: NeurIPS 2025  
-- 🤗 Hugging Face Model Available
+- 📁 Repository: [QiMeng-SALV](https://github.com/Qimeng-IPRC/QiMeng-SALV)
+- 📄 Paper (NeurIPS 2025):
 
 ---
 
