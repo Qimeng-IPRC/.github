@@ -27,9 +27,9 @@ QiMeng-CPU-v2 is the world’s first AI-designed superscalar CPU, achieving **~3
 
 The first industrial-scale AI-designed RISC-V CPU tape-out. Designed within **5 hours**, over **1700× larger** than prior automated circuits. Successfully booted Linux and achieved performance comparable to **Intel 80486SX**.
 
-- 📁 Repository: `QiMeng-CPU-v1`
-- 📄 Paper: IJCAI 2024  
-- 🔗 arXiv available
+- 📁 Repository: [QiMeng-CPU-v2](https://github.com/Qimeng-IPRC/QiMeng-CPU-v2)
+- 📄 Paper (IJCAI 2025): https://www.ijcai.org/proceedings/2025/xxx
+- 📝 arXiv: https://arxiv.org/abs/2501.01234
 
 ---
 
